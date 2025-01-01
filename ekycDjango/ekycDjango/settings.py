@@ -32,7 +32,8 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     "rest_framework",
-    "student",
+    "students",
+    "universities",
     
     "django.contrib.admin",
     "django.contrib.auth",
